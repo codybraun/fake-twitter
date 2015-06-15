@@ -1,0 +1,3 @@
+My TBP homepage is located at http://cgi-cspp.cs.uchicago.edu/~jcbraun/cs53001/tbp.html
+
+I didn't make it too pretty yet, but it should be fairly intuitive what's going on. The user timeline is starting to look like twitter, and you can click through links to other users and lists. Numbers 1-1000ish should be well populated in most tables, except topics which only go up to ten, so you can check out some of the queries. 

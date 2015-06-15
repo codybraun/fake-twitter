@@ -1,0 +1,3 @@
+http://cgi-cspp.cs.uchicago.edu/~jcbraun/cs53001/final.html
+
+Data betwen 1-1000 should be good for most fields in the search page, 1-10 for the topics. I know that's not how you would realistically search for people on twitter, but it's easier since the database is populated with randomly generated data. The home page is my version of the twitter timeline. Please let me know if it isn't apparent how something works or if something seems broken, it's hard to test this very thoroughly. 

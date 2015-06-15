@@ -1,0 +1,44 @@
+
+body{
+
+	background-color: gray;
+}
+
+
+div.tweet
+{
+border-style: dashed;
+overflow: hidden;
+    border-color: black;
+    padding: 5px;
+ 
+    background-color: white;
+
+}
+
+div.main
+{
+
+margin-left:auto;
+margin-right: auto;
+    border-color: black;
+    padding: 5px;
+    width: 60%;
+    background-color: #E5F2F7;
+    border: 2px solid;
+    border-radius: 25px;
+
+}
+
+body.tbp{
+
+	background-color: #E5F2F7;
+}
+
+
+h1.header
+{
+color: 	#00005C;
+text-align:center;
+size: 200%;
+}

@@ -1,0 +1,63 @@
+
+body{
+
+	background-color: gray;
+}
+
+div.tweet
+{
+border-style: dashed;
+overflow: hidden;
+    border-color: black;
+    padding: 5px;
+ 
+    background-color: white;
+}
+
+div.main
+{
+
+margin-left:auto;
+margin-right: auto;
+    border-color: black;
+    padding: 15px;
+    width: 60%;
+    background-color: #E5F2F7;
+    border: 2px solid;
+    border-radius: 25px;
+
+}
+
+div.header
+{
+
+margin-left:auto;
+margin-right: auto;
+    border-color: black;
+    padding: 5px;
+    width: 60%;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 25px;
+
+}
+
+body.tbp{
+
+	background-color: #E5F2F7;
+}
+
+
+h1.header
+{
+color: 	#00005C;
+text-align:center;
+size: 200%;
+}
+
+a.header{
+margin-left:auto;
+margin-right: auto;
+text-align:center;
+padding:10px;
+}
